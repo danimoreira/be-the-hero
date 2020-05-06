@@ -1,0 +1,15 @@
+Aplicação Frontend e Backend para estudo básico das tecnologicas
+- node.js
+- npm
+- react
+- react native
+- insomnia (postman)
+- nodemon
+- knex.js
+- SQLite
+- migrations
+- cors
+- flexbox
+- axios (cliente HTTP)
+- celebrate
+- Jest
